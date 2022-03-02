@@ -135,9 +135,19 @@ header {
 
 }
 
+.botoesPorcentagemClik {
+
+    background-color: var(--Strong-cyan);
+   
+}
+
 .botoesPorcentagem:hover {
     background-color: #b6dde0;
     color: var(--Very-dark-cyan);
+}
+
+.botoesPorcentagem:active {
+    background-color: #bbe6e9;
 }
 
 .botoesPorcentagem:focus {
